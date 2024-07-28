@@ -3,12 +3,6 @@
 This configure is based on [AstroNvim](https://github.com/AstroNvim/AstroNvim), 
 and uses [AstroNvim Template](https://github.com/AstroNvim/template).
 
-## Installation
-
-
-**NOTE:** This is for AstroNvim v4+
-
-A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 ## 🛠️ Installation
 
